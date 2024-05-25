@@ -3,5 +3,4 @@ Object.defineProperty(a, "name" , {value : 'hell' , writable :false , configurab
 console.log( a );
 a.name  = 'modified'
 console.log( a.name)
-
 console.log( 'this is newbranch line')
