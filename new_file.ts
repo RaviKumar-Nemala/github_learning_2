@@ -7,3 +7,4 @@ function accept_account_number(a : MyObject)
 }
 accept_account_number(  {account_number : "123"});
 console.log( 'added in new_branch adding ');
+console.log('anotherline')
